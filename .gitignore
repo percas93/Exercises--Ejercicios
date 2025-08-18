@@ -1,0 +1,83 @@
+# =========================
+# Python
+# =========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# =========================
+# macOS system files
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# macOS specific metadata
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# =========================
+# VS Code settings
+# =========================
+.vscode/
+*.code-workspace
+
+# =========================
+# Logs and misc
+# =========================
+*.log
+
+
+E002.ipynb
