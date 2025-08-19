@@ -15,6 +15,9 @@ Browse the numbered exercises.
 Open any file to read the problem statement and my solution.
 Some exercises include multiple solution attempts to illustrate the reasoning process.
 
+## 🌐 Language Choice
+The repository is written in English to make it accessible and understandable to a wider audience. Variable names, comments, and documentation also follow this decision, keeping the code cohesive and consistent.
+
 ## 🔎 Why This Repository Matters
 This repo is intentionally raw and transparent. It’s about showing the process, not just polished results. Recruiters and collaborators can:
 Observe how I break down challenges.
@@ -22,7 +25,7 @@ See how I iterate, refine, and optimize.
 Get a sense of my coding discipline, style, and growth.
 
 ## 📬 Contact
-If you’d like to discuss my work, opportunities, or collaborations:
-Email: pablopercas93@gmail.com
-LinkedIn: https://www.linkedin.com/in/pablo-pereira-casañas/
+If you’d like to discuss my work, opportunities, or collaborations:<br>
+Email: pablopercas93@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/pablo-pereira-casañas/<br>
 GitHub Profile: https://github.com/percas93
